@@ -2,6 +2,7 @@
 My Official Bigscreen Mounting Attachments a WIP v01
 
 BOM:
+
 2 | [Seeed Studio XIAO ESP32S3 Sense](https://www.google.com/url?q=https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html&sa=D&source=editors&ust=1704644943665084&usg=AOvVaw1fs6H2pfn6c_YyGU16gUws)
 
 2*| [OV2640 130° 75mm Camera (make sure you look at the options before buying it and double check)](https://www.aliexpress.us/item/3256802853835121.html?spm=a2g0o.order_list.order_list_main.5.93641802NNWnBh&gatewayAdapt=glo2usa)
