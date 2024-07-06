@@ -1,7 +1,7 @@
 # Bigscreen BeyMod
 ## My Mount Attachments for Bigscreen Beyond. it took a while to clean up all the mess and a documentation is being done
 
-# BOM:
+# BOM for V1.X:
 
 2 | [Seeed Studio XIAO ESP32S3 Sense](https://www.google.com/url?q=https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html&sa=D&source=editors&ust=1704644943665084&usg=AOvVaw1fs6H2pfn6c_YyGU16gUws)
 
