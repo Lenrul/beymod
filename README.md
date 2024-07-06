@@ -1,4 +1,4 @@
-# Bigscreen BeyMod v1
+# Bigscreen BeyMod
 My Official Bigscreen Mounting Attachments a WIP v01
 
 BOM:
