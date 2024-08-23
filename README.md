@@ -20,6 +20,7 @@ i.e.:
 1 | [USB 2.0 type C Male/Female Connectors (6 pcies)](https://www.aliexpress.us/item/3256805148260244.html?spm=a2g0o.order_list.order_list_main.48.93641802NNWnBh&gatewayAdapt=glo2usa)
 
 1 | [V4 IR mini Fully Solder-less Kit (110mm)](https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit)
+
 [PTFE Silver Plated Copper Wire (30 AWG)](https://www.aliexpress.us/item/3256805135555625.html?spm=a2g0o.order_list.order_list_main.98.53f21802w21k77&gatewayAdapt=glo2usa)
 
 Files for V1:
