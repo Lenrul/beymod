@@ -21,4 +21,8 @@ i.e.:
 
 1 | [V4 IR mini Fully Solder-less Kit (110mm)](https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit)
 
+Files for V1:
+https://github.com/Lenrul/beymod/tree/main/V1
+
 ![Beymod](https://github.com/Lenrul/beymod/assets/132875948/4e8de1f1-ce59-4dc0-aeb3-0c7e77f5652a)
+
