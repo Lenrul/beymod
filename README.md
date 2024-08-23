@@ -1,6 +1,6 @@
 # Bigscreen BeyMod
 ## My Mount Attachments for Bigscreen Beyond.
-this is not a guide but for reference to EyetrackVR Documentation if you need help, please read the EyetrackVR documentation and ask me once you've fully understand what you are about to get yours working.
+this is not a guide but for build reference to EyetrackVR Documentation for the beyond. If you need help, please read the EyetrackVR documentation and ask me once you've fully understand what you are about to get yours working.
 # Some Caveats:
  This Mod may or may not work depending on your face structure and where the optics sits
 i.e.: 
