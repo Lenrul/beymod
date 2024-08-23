@@ -2,7 +2,7 @@
 ## My Mount Attachments for Bigscreen Beyond.
 this is not a guide but for build reference to EyetrackVR Documentation for the beyond. If you need help, please read the EyetrackVR documentation and ask me once you've fully understand what you are about to get yours working.
 # Some Caveats:
- This Mod may or may not work depending on your face structure and where the optics sits
+ This Mod may or may not work for everyone depending on your face structure and where the optics sits
 i.e.: 
 1. if you have a much flatter face, the camera could stick out farther than the cushion could cover and could provide discomfort
 2. if your eye is not exactly center from the optic, a small difference makes a big impact on tracking quality
