@@ -8,7 +8,8 @@ i.e.:
 2. if your eye is not exactly center from the optic, a small difference makes a big impact on tracking quality
 3. it can get hot so prepare some eyedrops if you do wear it for prolonged periods of time.
 
-# BOM for V1.X:
+
+# BOM for V1.X To build Right now:
 
 2 | [Seeed Studio XIAO ESP32S3 Sense](https://www.google.com/url?q=https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html&sa=D&source=editors&ust=1704644943665084&usg=AOvVaw1fs6H2pfn6c_YyGU16gUws)
 
