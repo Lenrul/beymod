@@ -1,3 +1,6 @@
+# Note: Last update to this Repo since bigscreen beyond 2 now has eyetracking. Here's the file for bigscreen beyond 1. below.
+## [Printables Fusion360 Link](https://www.printables.com/model/1378942-beymod-v1x)
+
 # Bigscreen BeyMod
 ## My Mount Attachments for Bigscreen Beyond.
 this is not a guide but for build reference to EyetrackVR Documentation for the beyond. If you need help, please read the EyetrackVR documentation and ask me once you've fully understand what you are about to get yours working.
