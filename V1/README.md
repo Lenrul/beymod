@@ -1,4 +1,8 @@
+#Note: Not updating this repo, Model is released for you to use/modify.
+
 # Version 1.X of Beymod DIY
+
+
 
 ## This is a Mod You Can build yourself Right now without any wait.
 
